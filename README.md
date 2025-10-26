@@ -1,4 +1,4 @@
-==== WELCOME ====
+## WELCOME!
 
 Monarch Flashcards is a flashcard app designed to recreate Quizlet's "write mode" from before 2020 when Quizlet removed that feature.
 It is a highly configureable, light-weight, type-the-answer study aid that runs locally on your computer, and give YOU control over your studies.
@@ -7,7 +7,7 @@ Written in Python.
 
 .
 
-==== WHAT MAKES MONARCH FLASHCARDS THE BEST ====
+## FEATURES 
 
 •	2 study modes: “reveal mode” and “write mode”
 •	Extremely configurable
@@ -20,7 +20,7 @@ Written in Python.
 .
 
 
-==== DOWNLOAD INSTRUCTIONS ====
+## DOWNLOAD INSTRUCTIONS
 
 To download and run the program, you have 3 options:
 1) The easiest option is to download the .exe at https://drive.google.com/drive/folders/1Vnpsl9aM2cejYebiIZzK4EG7mjk7b_AN?usp=drive_link
@@ -34,7 +34,7 @@ To download and run the program, you have 3 options:
 .
 
 
-==== Background ====
+## Background ====
 
 As a polyglot and avid language learner, I used to use Quizlet daily, and created over 600 Quizlet sets between 2015 - 2020.
 I always used "write" mode because it keeps you honest. Unlike most other programs that simply reveal the answer, Write mode forces you to engage more actively with the material and reinforces the learning more efficiently.
@@ -45,10 +45,10 @@ So I decided to create the software myself, and the result is Monarch Flashcards
 .
 
 
-==== Bugs and feedback ====
+## Bugs and feedback ====
 
 If you find any bugs or have any suggestions please please please contact me at jonathansheehy1@gmail.com to let me know.
 I want it to be great and help as many people as possible, so I need feedback to know where to improve it.
 
-Also, Monarch Flashcards is the very first thing I've never programmed; A tragic percentage was vibe-coded with the help of LLMs. 
-As such, the code is frankly pretty terrible and poorly optimized. If you could give me some suggestions that improve performance or readability I would greatly appreciate them!!!
+Also, Monarch Flashcards is the very first thing I've ever programmed.
+As such, the code is not as refined as I'd ideally like it to be, so if you could give me some suggestions that improve performance or readability I would greatly appreciate them!!!
