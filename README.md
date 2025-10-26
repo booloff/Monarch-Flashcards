@@ -4,9 +4,9 @@ Monarch Flashcards is a flashcard app designed to recreate Quizlet's "write mode
 It is a highly configureable, light-weight, type-the-answer study aid that runs locally on your computer, and give YOU control over your studies.
 Create unlimited decks, for free, with no ads.
 Written in Python.
+
 .
-.
-.
+
 ==== WHAT MAKES MONARCH FLASHCARDS THE BEST ====
 
 •	2 study modes: “reveal mode” and “write mode”
@@ -16,9 +16,10 @@ Written in Python.
 •	Create decks with images
 •	Decks are stored on your computer, make as many as you like, study them offline
 •	Completely free, with no ads
+
 .
-.
-.
+
+
 ==== DOWNLOAD INSTRUCTIONS ====
 
 To download and run the program, you have 3 options:
@@ -29,9 +30,10 @@ To download and run the program, you have 3 options:
     If you don't know how to do this, I advise asking ChatGPT or another Chatbot for help. It's not as difficult as you may think!
 
 3) If you have python installed, you can just run the code through python.
+
 .
-.
-.
+
+
 ==== Background ====
 
 As a polyglot and avid language learner, I used to use Quizlet daily, and created over 600 Quizlet sets between 2015 - 2020.
@@ -39,9 +41,10 @@ I always used "write" mode because it keeps you honest. Unlike most other progra
 When Andrew Sutherland (The founder of Quizlet) left in 2020, and the new leadership removed Write mode, I, like other users, was extremely dismayed.
 Worst of all, I have been unable to find a suitable replacement. Anki doesn't support type-the-answer study modes, nor do any other popular spaced-repitition software.
 So I decided to create the software myself, and the result is Monarch Flashcards!
+
 .
-.
-.
+
+
 ==== Bugs and feedback ====
 
 If you find any bugs or have any suggestions please please please contact me at jonathansheehy1@gmail.com to let me know.
