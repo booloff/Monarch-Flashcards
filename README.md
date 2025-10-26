@@ -1,11 +1,11 @@
-## WELCOME!
+## Welcome!
 
 Monarch Flashcards is a flashcard app designed to recreate Quizlet's "write mode" from before 2020 when Quizlet removed that feature.
 It is a highly configureable, light-weight, type-the-answer study aid that runs locally on your computer, and give YOU control over your studies.
 Create unlimited decks, for free, with no ads.
 Written in Python.
 
-## FEATURES 
+## Features
 
 •	2 study modes: “reveal mode” and “write mode”
 
@@ -21,7 +21,7 @@ Written in Python.
 
 •	Completely free, with no ads
 
-## DOWNLOAD INSTRUCTIONS
+## Download instructions
 
 To download and run the program, you have 3 options:
 1) The easiest option is to download the .exe at https://drive.google.com/drive/folders/1Vnpsl9aM2cejYebiIZzK4EG7mjk7b_AN?usp=drive_link
