@@ -44,11 +44,13 @@ So I decided to create the software myself, and the result is Monarch Flashcards
 
 ## Bugs and feedback
 
-If you find any bugs or have any suggestions please please please contact me at jonathansheehy1@gmail.com to let me know.
+If you find any bugs or have any suggestions please contact me at jonathansheehy1@gmail.com to let me know.
 I want it to be great and help as many people as possible, so I need feedback to know where to improve it.
 
-Also, Monarch Flashcards is the very first thing I've ever programmed.
-As such, the code is not as refined as I'd ideally like it to be, so if you could give me some suggestions that improve performance or readability I would greatly appreciate them!!!
+Also, Monarch Flashcards my first coding project and I'll disclose that I used AI assistance to create it.
+As such, the code is not as refined as I'd ideally like it to be. My plan is to clean up the code and publish once it's in a clean, readable state.
+
+In the meantime, if you're reading this before I've published and have any suggestions I would greatly appreciate them!!!
 
 ## Screenshots
 
