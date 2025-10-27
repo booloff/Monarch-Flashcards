@@ -47,3 +47,11 @@ I want it to be great and help as many people as possible, so I need feedback to
 
 Also, Monarch Flashcards is the very first thing I've ever programmed.
 As such, the code is not as refined as I'd ideally like it to be, so if you could give me some suggestions that improve performance or readability I would greatly appreciate them!!!
+
+## Screenshots
+
+![Monarch Flashcards Title Screen.png](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Title%20Screen.png))
+![Stats Screen](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Stats%20Screen.png)
+![Write Mode](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Write%20Mode.png)
+![Incorrect answer](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Incorrect%20Answer.png)
+![Decks screen](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Decks%20Screen.png)
