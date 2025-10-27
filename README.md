@@ -13,6 +13,8 @@ Written in Python.
 
 •	simple interface
 
+•	Organize your sets by separating them into different folders
+
 •	Color-codes your decks according to how well you know them, and how long since you last studied them.
 
 •	Create decks with images
