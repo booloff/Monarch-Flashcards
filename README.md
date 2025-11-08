@@ -21,8 +21,6 @@ Written in Python.
 
 •	Decks are stored on your computer, make as many as you like, study them offline
 
-•	Completely free, with no ads
-
 ## Download instructions
 
 To download and run the program, you have 3 options:
@@ -37,20 +35,20 @@ To download and run the program, you have 3 options:
 ## Background
 
 As a polyglot and avid language learner, I used to use Quizlet daily, and created over 600 Quizlet sets between 2015 - 2020.
-I always used "write" mode because it keeps you honest. Unlike most other programs that simply reveal the answer, Write mode forces you to engage more actively with the material and reinforces the learning more efficiently.
-When Andrew Sutherland (The founder of Quizlet) left in 2020, and the new leadership removed Write mode, I, like other users, was extremely dismayed.
-Worst of all, I have been unable to find a suitable replacement. Anki doesn't support type-the-answer study modes, nor do any other popular spaced-repitition software.
-So I decided to create the software myself, and the result is Monarch Flashcards!
+I always used "write" mode because the type-the-answer functionality keeps you honest.
+
+When the original founder of Quizlet stepped down in 2020, I was dismayed when the new management removed "write" mode.
+
+Worst of all, other popular flashcard apps like Anki don't offer any type-the-answer options. So I eventually decided to create one myself.
+And the result is Monarch Flashcards! :)
 
 ## Bugs and feedback
 
 If you find any bugs or have any suggestions please contact me at jonathansheehy1@gmail.com to let me know.
 I want it to be great and help as many people as possible, so I need feedback to know where to improve it.
 
-Also, Monarch Flashcards my first coding project and I'll disclose that I used AI assistance to create it.
-As such, the code is not as refined as I'd ideally like it to be. My plan is to clean up the code and publish once it's in a clean, readable state.
-
-In the meantime, if you're reading this before I've published and have any suggestions I would greatly appreciate them!!!
+Also, Monarch Flashcards is my first coding project and I'll disclose that I used AI assistance to create it.
+All the bugs are Claude's fault, all the parts that work great were written by me.
 
 ## Screenshots
 
