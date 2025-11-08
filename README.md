@@ -48,7 +48,7 @@ If you find any bugs or have any suggestions please contact me at jonathansheehy
 I want it to be great and help as many people as possible, so I need feedback to know where to improve it.
 
 Also, Monarch Flashcards is my first coding project and I'll disclose that I used AI assistance to create it.
-All the bugs are Claude's fault, all the parts that work great were written by me.
+Any bugs are Claude's fault, the parts that work great are from me ;)
 
 ## Screenshots
 
