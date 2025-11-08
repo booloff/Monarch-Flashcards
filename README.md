@@ -52,8 +52,9 @@ All the bugs are Claude's fault, all the parts that work great were written by m
 
 ## Screenshots
 
-![Monarch Flashcards Title Screen.png](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Title%20Screen.png))
-![Stats Screen](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Stats%20Screen.png)
+![Monarch Flashcards Title Screen.png](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20final%20release%20title%20screen.png))
+![Stats Screen](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20final%20release%20stats.png)
 ![Write Mode](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Write%20Mode.png)
 ![Incorrect answer](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Incorrect%20Answer.png)
-![Decks screen](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20Decks%20Screen.png)
+![Decks screen](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20final%20release%20your%20decks.png)
+![Edit mode](https://github.com/booloff/Monarch-Flashcards/blob/main/Monarch%20Flashcards%20final%20release%20edit%20mode.png)
