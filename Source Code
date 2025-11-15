@@ -4378,6 +4378,7 @@ def stats_clicked(view_amount = 14, show_all = False):
         print(f"Before loop, must search folders: {must_search_folders}")
         for parent_folder, name in must_search_folders:
             print(f"In loop, must search folders: {must_search_folders}")
+            check_for_name_errors(parent_folder)
             items = []
             items += os.listdir(parent_folder)
             items = sorted(items, key = sort_negative_and_positive_numbers)
