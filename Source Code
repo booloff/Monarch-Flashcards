@@ -65,10 +65,10 @@ def load_settings():
         "must_match_punctuation": False,
         "must_match_diacritics": True,
         "allow_typos": False,
-        "typo_leniency": 0.86,
+        "typo_leniency": 0.8,
         "answer_box_size": 1,
         "font": "Tahoma",
-        "font_size": 14,
+        "font_size": 16,
         "override_correct": "y",
         "override_incorrect": "t",
     }
