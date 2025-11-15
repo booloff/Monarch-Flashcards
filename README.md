@@ -28,7 +28,6 @@ To download and run the program, you have 3 options:
    This gives you a single file that lets you run the program at the click of a button. (Currently only supports Windows. Mac version coming soon)
 
 2) You can take the source code and compile it yourself. This will create a .exe file that you can just click to run the program.
-    If you don't know how to do this, I advise asking ChatGPT or another Chatbot for help. It's not as difficult as you may think!
 
 3) If you have python installed, you can just run the code through python.
 
